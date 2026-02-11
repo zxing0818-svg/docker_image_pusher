@@ -11,3 +11,4 @@ linuxserver/qbittorrent:latest
 adolfintel/speedtest:latest
 jellyfin/jellyfin:latest
 xgheaven/homebox:latest
+gethomepage/homepage:latest
